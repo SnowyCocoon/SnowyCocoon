@@ -8,12 +8,12 @@
 - ⚡ Fun fact: I love all kind of sports and japanese literatue (Dazai, Mishima)
 
 ## My biggest projects
-- Compleated
+### Compleated
 - [Onryo][onryou]
 - [Twin-Turbo Supercharged Nitro-Fueled Papamobile][papamobile]
 - [Seeder][seeder]
 
-- Work in Progress
+### Work in Progress
 - [Accountant Of Time][account]
 - [Hordeum][hordeum]
 - [Unannounced][website]
