@@ -36,8 +36,7 @@
 [<img align="left" alt="SnowyCocoon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="SnowyCocoon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SnowyCocoon | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="SnowyCocoon | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][linkedin]
-[<img align="left" alt="SnowyCocoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][discord]
+[<img align="left" alt="SnowyCocoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [AI_Repo]: https://github.com/SnowyCocoon/AI_ML_Math_Projects
@@ -47,7 +46,6 @@
 [twitter]: https://twitter.com/Snowy_Cocoon
 [youtube]: https://www.youtube.com/channel/UCGcDuS_Yir5Cj4GLwTZsWTQ
 [reddit]: https://www.reddit.com/user/SnowyCocoon
-[discord]: https://discord.gg/tQVkKGe
 [linkedin]: https://www.linkedin.com/in/dominik-strza%C5%82ko-b48a69150/
 
 [onryou]: https://snowycocoon.itch.io/onryou-pit
