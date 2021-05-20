@@ -8,13 +8,13 @@
 - ⚡ Hobbies: I love all kind of sports and japanese literatue (especially Dazai and Mishima). I'm also a DotA2, and OSRS Player!
 
 ## My **AI/ML** Repositories:
-- Data Science Projects
-- Mashine Learning and AI Projects (and some math)
-- Runescape OpenCV Bot
+- [Data Science Projects][DS_Repo]
+- [Mashine Learning and AI Projects (and some math)][AI_Repo]
+- [Runescape OpenCV Bot]
 
 ## My Gamedev related Repositories:
-- +18 Gamedev database
-- Godot Playground
+- [+18 Gamedev database]
+- [Godot Playground]
 -
 
 
@@ -39,6 +39,9 @@
 [<img align="left" alt="SnowyCocoon | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][linkedin]
 [<img align="left" alt="SnowyCocoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][discord]
 
+
+[AI_Repo]: https://github.com/SnowyCocoon/AI_ML_Math_Projects
+[DS_Repo]: https://github.com/SnowyCocoon/Data-Science-Projects
 
 [website]: https://snowycocoon.com
 [twitter]: https://twitter.com/Snowy_Cocoon
