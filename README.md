@@ -1,20 +1,20 @@
-## Hello, My name is Dominik - aka [SnowyCocoon][website]
+## Hello, My name is **Dominik** - aka [SnowyCocoon][website]
 
-### I'm a Game Developer, Game Designer, Programmer and currently I'm studying AI at the University of Adam Mickiewicz in Poznań!
-- 🔭 I’m currently working on a 1 new game, and I'm trying to upgrade other one.
+### I'm a **Game Developer, Game Designer, Programmer, Data Scientist** and currently I'm studying AI at the University of Adam Mickiewicz in Poznań!
+- 🔭 I’m currently working on a 1 new game, and I'm trying to upgrade another one.
 - 🌱 I'm mainly focused on usage of AI and ML in Games (Voice recognition, Computer Vision, creating virtual enviroments and state mashines). I'm writing my master thesis about it!
 - 👯 I’m open for collaborations with other game developers, data scientists and ML researchers.
 - 🥅 2021 Goals: Learn about AI/ML/DL/DS as much as i can and create a few indie games!
 - ⚡ Hobbies: I love all kind of sports and japanese literatue (especially Dazai and Mishima). I'm also a DotA2, and OSRS Player!
 
-## My AI/ML Repositories:
+## My **AI/ML** Repositories:
 - Data Science Projects
 - Mashine Learning and AI Projects (and some math)
 - Runescape OpenCV Bot
 
 ## My Gamedev related Repositories:
-- 
--
+- +18 Gamedev database
+- Godot Playground
 -
 
 
