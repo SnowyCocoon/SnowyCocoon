@@ -43,7 +43,7 @@
 [DS_Repo]: https://github.com/SnowyCocoon/Data-Science-Projects
 
 [website]: https://snowycocoon.com
-[twitter]: https://twitter.com/Snowy_Cocoon
+[twitter]: https://twitter.com/SnowyKokon
 [youtube]: https://www.youtube.com/channel/UCGcDuS_Yir5Cj4GLwTZsWTQ
 [reddit]: https://www.reddit.com/user/SnowyCocoon
 [linkedin]: https://www.linkedin.com/in/dominik-strza%C5%82ko-b48a69150/
