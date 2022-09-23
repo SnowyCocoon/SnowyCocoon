@@ -1,34 +1,16 @@
 ## Hello, My name is **Dominik** - aka [SnowyCocoon][website]
 
-### I'm a **Game Developer, Game Designer, Programmer, Data Scientist** and currently I'm studying AI at the University of Adam Mickiewicz in Poznań!
-- 🔭 I’m currently working on a 1 new game, and I'm trying to upgrade another one.
-- 🌱 I'm mainly focused on usage of AI and ML in Games (Voice recognition, Computer Vision, creating virtual enviroments and state mashines). I'm writing my master thesis about it!
-- 👯 I’m open for collaborations with other game developers, data scientists and ML researchers.
-- 🥅 2021 Goals: Learn about AI/ML/DL/DS as much as i can and create a few indie games!
-- ⚡ Hobbies: I love all kind of sports and japanese literatue (especially Dazai and Mishima). I'm also a DotA2, and OSRS Player!
+### I'm a **Game Developer, Game Designer, Programmer and AI specialist** and currently working full time in Microtaur and part-time in some other companies
+- 🔭 I’m currently working on a 1 big project for a big Influencer/Streaming Company
+- 🌱 I wrote my engineering thesis about differences between Godot and Unity, and my masters thesis about voice recognition in games.
+- 👯 I'm always open for new ideas and job offerts (as long as I'm partialy free)
+- 🥅 2022/2023 Goals: Learn more about science side of VTubing and developing my company (Microtaur)
+- ⚡ Hobbies: I love all kind of sports and japanese literatue (especially Dazai and Mishima). I'm also a DotA2, Diablo 3/4 and OSRS Player.
 
-## My **AI/ML** Repositories:
-- [Data Science Projects][DS_Repo]
-- [Mashine Learning and AI Projects (and some math)][AI_Repo]
-- [Runescape OpenCV Bot]
+## Most of my repositories are quite old and trashy. I'm keeping most of my reops private.
 
-## My Gamedev related Repositories:
-- [+18 Gamedev database]
-- [Godot Playground]
--
-
-
-## Links to my games (or to the games i co-created)
-### Compleated
-- [Hordeum][hordeum]
-- [Onryo][onryou]
-- [Twin-Turbo Supercharged Nitro-Fueled Papamobile][papamobile]
-- [Seeder][seeder]
-- [Peanut Butter Invasion][PBI]
-
-### Work in Progress
-- [Accountant Of Time][website]
-- 
+## Microtaur plugins Repositories:
+- TOP SECRET
 
 ## My socials:
 
@@ -47,11 +29,3 @@
 [youtube]: https://www.youtube.com/channel/UCGcDuS_Yir5Cj4GLwTZsWTQ
 [reddit]: https://www.reddit.com/user/SnowyCocoon
 [linkedin]: https://www.linkedin.com/in/dominik-strza%C5%82ko-b48a69150/
-
-[onryou]: https://snowycocoon.itch.io/onryou-pit
-[seeder]: https://snowycocoon.itch.io/seeder
-[papamobile]: https://store.steampowered.com/app/1344800/TwinTurbo_Supercharged_NitroFueled_Papamobile/
-
-[account]: https://snowycocoon.itch.io/onryou-pit
-[hordeum]: https://snowycocoon.itch.io/hordeum
-[PBI]: https://snowycocoon.itch.io/penut-buttter-invasion
