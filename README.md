@@ -1,28 +1,22 @@
-## Hello, My name is **Dominik** - aka [SnowyCocoon][website]
+## Hello, My name is **Dominik** - aka SnowyCocoon
 
 ### I'm a **Game Developer, Game Designer, Programmer and AI specialist** and currently working full time in Microtaur and part-time in some other companies
-- 🔭 I’m currently working on a 1 big project for a big Influencer/Streaming Company
-- 🌱 I wrote my engineering thesis about differences between Godot and Unity, and my masters thesis about voice recognition in games.
-- 👯 I'm always open for new ideas and job offerts (as long as I'm partialy free)
-- 🥅 2022/2023 Goals: Learn more about science side of VTubing and developing my company (Microtaur)
+- 🔭 I’m currently working on my Data Science/AI portfolio. I'm creating a trading bot and game bot rn.
+- 🌱 I wrote my engineering thesis about differences between Godot and Unity engines, and my masters thesis about voice recognition in games.
+- 👯 I'm always open for new ideas and job offerts (as long as I'm partialy free).
+- 🥅 2023/2024 Goals: Learn more about scientific side of VTubing and find a new Job in Data Science.
 - ⚡ Hobbies: I love all kind of sports and japanese literatue (especially Dazai and Mishima). I'm also a DotA2, Diablo 3/4 and OSRS Player.
 
-## Most of my repositories are quite old and trashy. I'm keeping most of my reops private.
+## My Data Science/AI [Portfolio][DS Portfolio_Repo]
 
-## Microtaur plugins Repositories:
-- TOP SECRET
+## Most of my repositories are quite old and trashy, so I'm keeping them private
 
-## My socials:
+## My socials (Website maintenance):
 
-[<img align="left" alt="snowycocoon.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SnowyCocoon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SnowyCocoon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SnowyCocoon | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="SnowyCocoon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="SnowyCocoon | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[AI_Repo]: https://github.com/SnowyCocoon/AI_ML_Math_Projects
-[DS_Repo]: https://github.com/SnowyCocoon/Data-Science-Projects
+[DS Portfolio_Repo]: https://github.com/SnowyCocoon/Data_Science_Portfolio
 
 [website]: https://snowycocoon.com
 [twitter]: https://twitter.com/SnowyKokon
