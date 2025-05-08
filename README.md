@@ -14,13 +14,13 @@
 
 # [My Website (assets/artstation etc)][website]
 
-## [My Outdated (probably) Gamedev Portfolio][Gamedev Portfolio_Repo]
+## [My Outdated (probably) Gamedev Portfolio][Gamedev_Portfolio_Repo]
 
 
 [<img align="right" alt="SnowyCocoon | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[Gamedev Portfolio_Repo]: [https://github.com/SnowyCocoon/Data_Science_Portfolio](https://github.com/SnowyCocoon/Game_Development_Portfolio)
+[Gamedev_Portfolio_Repo]: [https://github.com/SnowyCocoon/Data_Science_Portfolio](https://github.com/SnowyCocoon/Game_Development_Portfolio)
 
 [website]: https://snowycocoon.com
 
